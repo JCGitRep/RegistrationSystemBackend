@@ -1,0 +1,5 @@
+Name,LastName,Email,BirthDate,Password,ID,isAdmin,isApproved
+user3,user3,user3@hotmail.com,0001-01-01,123jad,{A06514F6-C132-4735-9F8A-2461AD5A5405},False,False
+Jad,Chaaban,Jad-chaaban@hotmail.com,1995-05-02,123JAD,{123E4567-E89B-12D3-A456-426655440000},True,True
+user1,user1,user1@hotmail.com,0001-01-01,123jad,{11268122-4593-48BF-A572-6A8192813689},False,True
+user2,user2,user2@hotmail.com,0001-01-01,123,{20661629-AB93-4C97-8326-B7F594412FE4},False,True
